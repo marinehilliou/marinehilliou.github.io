@@ -1,0 +1,5 @@
+title: "Mon Portfolio"
+description: "Portfolio d'une ingénieure informatique"
+baseurl: "" # laisser vide pour GitHub Pages
+url: "https://marinehilliou.github.io" # remplacer par ton propre nom d'utilisateur GitHub
+theme: minima # Jekyll fournit ce thème par défaut, tu pourras le changer plus tard si tu le souhaites
